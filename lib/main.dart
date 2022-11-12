@@ -41,8 +41,6 @@ class MyApp extends StatelessWidget {
                 iconTheme: IconThemeData(color: Colors.black)),
             fontFamily: 'Schyler1',
           ),
-        )
-  
-        );
+        ));
   }
 }
