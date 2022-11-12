@@ -42,24 +42,7 @@ class MyApp extends StatelessWidget {
             fontFamily: 'Schyler1',
           ),
         )
-        // MaterialApp(
-        //   home: const SplashScreenView(),
-        //   debugShowCheckedModeBanner: false,
-        //   // localizationsDelegates: const [
-        //   //   S.delegate,
-        //   //   GlobalMaterialLocalizations.delegate,
-        //   //   GlobalWidgetsLocalizations.delegate,
-        //   //   GlobalCupertinoLocalizations.delegate,
-        //   // ],
-        //   //supportedLocales: S.delegate.supportedLocales,
-        //   theme: ThemeData(
-        //     scaffoldBackgroundColor: Colors.white,
-        //     appBarTheme: const AppBarTheme(
-        //         backgroundColor: Colors.white,
-        //         iconTheme: IconThemeData(color: Colors.black)),
-        //     fontFamily: 'Schyler1',
-        //   ),
-        // )
+  
         );
   }
 }
